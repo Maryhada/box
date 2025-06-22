@@ -1,0 +1,19 @@
+body{
+    background-color: skyblue;
+}
+.class{
+    width: 255px;
+    padding: 50px;
+    border-color: lightpink;
+    margin: 5px;
+    background-color: beige;
+    border: solid;
+}
+#id{
+    background-color: lightgreen;
+    width: 255px;
+    padding: 50px;
+    border-color: lightpink;
+    margin: 5px;
+    border: solid
+}
